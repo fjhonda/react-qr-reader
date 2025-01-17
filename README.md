@@ -97,6 +97,7 @@ The `QrReader` component has the following props:
 
 - Created by [@JodusNodus](https://github.com/JodusNodus) .
 - Revived thanks to [@JonatanSalas](https://github.com/JonatanSalas) and his company [@BlackBoxVision](https://github.com/BlackBoxVision) .
+- Updated by Francisco Lemus to add new react versions compatibility
 
 ## Browser Support
 
