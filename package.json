@@ -15,7 +15,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-qr-reader/react-qr-reader.git"
+    "url": "git+https://github.com/fjhonda/react-qr-reader.git"
   },
   "keywords": [
     "react",
@@ -23,12 +23,12 @@
     "qrcode",
     "qrreader"
   ],
-  "author": "thomas billiet",
+  "author": "Francisco Lemus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-qr-reader/react-qr-reader/issues"
+    "url": "https://github.com/fjhonda/react-qr-reader/issues"
   },
-  "homepage": "https://github.com/react-qr-reader/react-qr-reader#readme",
+  "homepage": "https://github.com/fjhonda/react-qr-reader/#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
