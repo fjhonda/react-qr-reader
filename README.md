@@ -1,5 +1,7 @@
 # React QR Reader [![npm version](https://badge.fury.io/js/react-qr-reader.svg)](https://badge.fury.io/js/react-qr-reader) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Known Vulnerabilities](https://snyk.io/test/github/react-qr-reader/react-qr-reader/badge.svg)](https://snyk.io/test/github/react-qr-reader/react-qr-reader)
 
+This is a fork of a great package. All the credits for this is to is original author. I forked this update som libs and make it compatible with newer versions of React. 
+
 :rocket: React QR Reader component. Check out the [demo](https://react-qr-reader.github.io/react-qr-reader/).
 
 ## Table of contents
